@@ -1,0 +1,1 @@
+from google.transliteration import transliterate_text
